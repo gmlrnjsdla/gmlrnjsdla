@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=300&section=header&text=Welcome&fontSize=90&desc=HEEKWON's%20Github%20profile&descAlign=65&fontColor=ffffff)
+<img src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=#00599C&logoColor=black"/>
 ![HEEKWON LIM's github stats](https://github-readme-stats.vercel.app/api?username=gmlrnjsdla&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlrnjsdla&layout=compact)](https://github.com/gmlrnjsdla/github-readme-stats)
