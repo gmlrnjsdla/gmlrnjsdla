@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-
+<div align = center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlrnjsdla&layout=compact)](https://github.com/gmlrnjsdla/github-readme-stats)
+</div>
