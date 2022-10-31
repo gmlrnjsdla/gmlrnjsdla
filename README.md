@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-![HEEKWON LIM's github stats](https://github-readme-stats.vercel.app/api?username=gmlrnjsdla&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlrnjsdla&layout=compact)](https://github.com/gmlrnjsdla/github-readme-stats)
