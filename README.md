@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=300&section=header&text=Welcome&fontSize=90&desc=HEEKWON's%20Github%20profile&descAlign=65&fontColor=ffffff)
 <br>
 <br>
-<h4 align="center" dir="auto">⚒️Tech Stack⚒️</h4>
+<h2 align="center" dir="auto">⚒️Tech Stack⚒️</h2>
 <div align="center" dir="auto">
 <img src="https://img.shields.io/badge/JAVA-1071D3?style=for-the-badge&logo=Joplin&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-41BF47?style=for-the-badge&logo=Spring&logoColor=white">
