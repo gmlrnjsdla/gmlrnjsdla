@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JQUERY-E34F26?style=for-the-badge&logo=JQUERY&logoColor=white">
 </div>
 <br><br>
-<a href="[https://www.notion.so/Potfolio-852258bd139d48029160f58c1e11c0fc](https://universal-mailbox-e5f.notion.site/4cdf5696aebb43138eba11ece624f94c)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
+<div align="center">
+<a href="[https://www.notion.so/Potfolio-852258bd139d48029160f58c1e11c0fc](https://universal-mailbox-e5f.notion.site/4cdf5696aebb43138eba11ece624f94c)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlrnjsdla&layout=compact)](https://github.com/gmlrnjsdla/github-readme-stats)
 
