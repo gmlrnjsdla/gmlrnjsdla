@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <h2 align="center" dir="auto">🌱Potfolio🌱</h2>
-<a href="[https://www.notion.so/Potfolio-852258bd139d48029160f58c1e11c0fc](https://universal-mailbox-e5f.notion.site/4cdf5696aebb43138eba11ece624f94c)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://universal-mailbox-e5f.notion.site/4cdf5696aebb43138eba11ece624f94c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <br><br>
 
